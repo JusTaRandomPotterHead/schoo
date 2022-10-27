@@ -1,0 +1,51 @@
+iframe{
+    height: 500px;
+    width: 1400px;
+}
+#c{
+    height: 500px;
+    width: 700px;
+}
+#d{
+    height: 500px;
+    width: 700px;
+}
+#court{
+    height: 500px;
+    width: 700px;
+}
+
+.movie_head{
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.movie_head i{
+    float: right;
+}
+.achievement-text span{
+    color: orange;
+}
+#s{
+    height:700px;
+    width: 1500px;
+}
+#clubs{
+    font-size: 18px;
+    color: rgb(18, 18, 116);
+    font-weight: bold;
+}
+
+.new{
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+#contact iframe{
+    width:100%;
+
+}
